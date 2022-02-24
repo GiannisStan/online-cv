@@ -34,9 +34,7 @@ sidebar:
 
       - idiom: English
         level: Professional
-
-      - idiom: --
-        level: --
+        
 
     interests:
       - item: Basketball
@@ -51,22 +49,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Ionian University
+     Ionian University student , Department of Informatics, since 2017
 education:
     - degree: Computer Science
       university: Ionian University
       time: 2017-
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -166,23 +153,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 50%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: C++
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: HTML5
         level: 60%
+
+       - name: Photoshop
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
